@@ -14,7 +14,7 @@ import {
 ```
 
 ```
- <ProductCard key={product.id} product={product} initialValues={{}}>
+ <ProductCard  product={product} initialValues={{}}>
           {({ reset, maxCount, isMaxCountReached, increaseBy, count }) => (
             <>
               <ProductImage />
