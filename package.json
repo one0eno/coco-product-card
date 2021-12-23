@@ -36,6 +36,10 @@
   "name": "coco-product-card",
   "author": "jorge",
   "module": "dist/coco-product-card.esm.js",
+  "repository": {
+    "url": "https://github.com/one0eno/coco-product-card",
+    "type": "git"
+  },
   "size-limit": [
     {
       "path": "dist/coco-product-card.cjs.production.min.js",
